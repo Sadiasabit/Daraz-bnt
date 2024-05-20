@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    color: beige;
+}
+h4{
+    color: coral;
+    text-indent: 60%;
+}
+main{
+    background-color: black;
+    color: beige;
+    padding: 1rem;
+
+}
+div{
+    padding: 3rem;
+    margin: 2rem;
+    width: 40rem;
+}
+
+input{
+    border: none;
+    padding: .5rem;
+    width: 20rem;
+}
+
+.bnt{
+    margin-left: 35rem;
+    width: 230px;
+    border: none;
+    padding: .6rem;
+    border-radius: .3rem;
+}
+.bnt__or{
+    background-color: black;
+    margin-left: 30rem;
+   
+}
+.bnt__log{
+    background-color: rgb(236, 73, 8); 
+    position: fixed;
+    top: 13rem;
+    left: 7.6%;
+    
+}
+.bnt__fec{
+    background-color: blue;
+    position: fixed;
+    top: 17rem;
+    font-size: 1rem;
+}
+.bnt__gg{
+    background-color: rgb(235, 9, 9);
+    position: fixed;
+    top: 20rem;
+    font-size: 1rem;
+}
+p{
+    text-indent: 34%;
+    color: aqua;
+}
+
